@@ -2,7 +2,7 @@
 
 cppy means **C**om**p**ile **Py**thon
 
-## Instruction
+## Introduction
 
 This is a tool writing in python3 that compiles the .py files in the python project to .pyc files and saves them in the specified directory.
 
