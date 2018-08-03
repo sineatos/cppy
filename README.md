@@ -1,8 +1,10 @@
 # cppy
 
+cppy means **C**om**p**ile **Py**thon
+
 ## Instruction
 
-This is a tool writing in python3 that converts the .py files in the python project to .pyc files and saves them in the specified directory.
+This is a tool writing in python3 that compiles the .py files in the python project to .pyc files and saves them in the specified directory.
 
 Using `python3 cppy.py -h` to know how to use this script.
 
@@ -45,6 +47,8 @@ Note: Do not access the target directory when compilation is running, otherwise 
 If you want to access the repository of cppy in gitee.com, here is the url: https://gitee.com/sineatos/cppy/tree/master
 
 ## 中文说明
+
+cppy 意思是 **C**om**p**ile **Py**thon
 
 一个使用python3编写的小工具，将指定路径中目录里面的所有py文件编译成pyc文件，然后提取到指定目录中
 
